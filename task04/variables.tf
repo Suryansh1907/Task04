@@ -86,7 +86,7 @@ variable "tags" {
   description = "Tags for resources"
   type        = map(any)
   default = {
-    Creator = "megha_kumari1@epam.com"
+    Creator = "suryansh_tilak@epam.com"
   }
 
 
